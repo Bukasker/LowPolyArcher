@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c224ed54caf630347be97ad817de66ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - movmentControl: {fileID: -7956255157402631127, guid: ce418f3a282b32348b1a92c0c4f630e9, type: 3}
+  - jumpControl: {fileID: -1870717638032665304, guid: ce418f3a282b32348b1a92c0c4f630e9, type: 3}
+  - Interaction: {fileID: 8202770959484769601, guid: ce418f3a282b32348b1a92c0c4f630e9, type: 3}
+  - Crouched: {fileID: 5273619865809930172, guid: ce418f3a282b32348b1a92c0c4f630e9, type: 3}
+  - slider: {instanceID: 0}
+  - GroundCheck: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
