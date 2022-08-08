@@ -4,7 +4,6 @@
   
 [![Valey-Model.png](https://i.postimg.cc/gjxfNCDm/Valey-Model.png)](https://postimg.cc/bSjCvFWB)
  
-<img src="https://i.postimg.cc/gjxfNCDm/Valey-Model.png" width="15%"></img> 
 Low Poly Archer is my first game made in Unity.
   
 
@@ -21,3 +20,5 @@ My first steps:
   - Then i added basic trannig ragdoll taking damage.
   - And for a end i added small inventory UI with complityl working adding item to slot.
     
+  <h2>Gallery</h2>
+  <img src="https://i.postimg.cc/gjxfNCDm/Valey-Model.png" width="15%"></img> 
