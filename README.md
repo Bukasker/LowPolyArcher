@@ -2,9 +2,9 @@
 <h1>LowPolyArcher</h1>
 <div>
 
-<scr="https://i.postimg.cc/gjxfNCDm/Valey-Model.png">
+<img scr="https://i.postimg.cc/gjxfNCDm/Valey-Model.png">
   
-<scr="https://postimg.cc/bSjCvFWB">
+<img scr="https://postimg.cc/bSjCvFWB">
 
   
   
