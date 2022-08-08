@@ -4,7 +4,7 @@
   
 [![Valey-Model.png](https://i.postimg.cc/gjxfNCDm/Valey-Model.png)](https://postimg.cc/bSjCvFWB)
  
-<img src="https://i.postimg.cc/gjxfNCDm/Valey-Model.png"></src>
+<img src="https://i.postimg.cc/gjxfNCDm/Valey-Model.png" width="15%"></img> 
 Low Poly Archer is my first game made in Unity.
   
 
