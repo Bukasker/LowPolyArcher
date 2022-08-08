@@ -22,3 +22,7 @@ My first steps:
     
   <h2>Gallery</h2>
   <img src="https://i.postimg.cc/gjxfNCDm/Valey-Model.png" width="15%"></img> 
+  <img src="https://i.postimg.cc/65h5MLq8/Bow-Shoting.png" witdh="15%"></img>
+  <img src="https://i.postimg.cc/J4RRHDxM/Fight.png" witdh="15%"></img>
+  <img src="https://i.postimg.cc/0yT5t8DN/Inventory.png" witdh="15%"></img>
+  <img src="https://i.postimg.cc/3NsfsbB2/Animations.png" witdh="15%"></img>
