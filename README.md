@@ -2,4 +2,8 @@
 <h1>LowPolyArcher</h1>
 <div>
 
-Low Poly Archer to moja pierwszcza gra 
+[![Valey-Model.png](https://i.postimg.cc/gjxfNCDm/Valey-Model.png)](https://postimg.cc/bSjCvFWB)
+
+Low Poly Archer is my first game ever made in Unity.
+
+In low poly archer I created :
