@@ -23,6 +23,6 @@ My first steps:
   <div dir="auto">
   <img src="https://i.postimg.cc/65h5MLq8/Bow-Shoting.png" width="15%" height="10%"></img> 
   <img src="https://i.postimg.cc/J4RRHDxM/Fight.png" width="15%" height="10%"></img>  
-  <img src="https://i.postimg.cc/0yT5t8DN/Inventory.png" width="15%" height="10%"></img>  
+  <img src="https://www.linkpicture.com/q/Inventory.png" width="15%" height="10%"></img>  
   <img src="https://i.postimg.cc/3NsfsbB2/Animations.png" width="15%" height="10%"></img> 
   </div>
