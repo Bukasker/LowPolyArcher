@@ -1,6 +1,5 @@
-<div dir="auto">
-<h1>LowPolyArcher</h1>
-<div>
+# LowPolyArcher
+
   
 [![Valey-Model.png](https://i.postimg.cc/gjxfNCDm/Valey-Model.png)](https://postimg.cc/bSjCvFWB)
  
