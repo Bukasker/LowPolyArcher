@@ -1,7 +1,7 @@
 # LowPolyArcher
 
   
-[![Valey-Model.png](https://i.postimg.cc/gjxfNCDm/Valey-Model.png)](https://postimg.cc/bSjCvFWB)
+[![Valey-Model.png]([https://i.postimg.cc/gjxfNCDm/Valey-Model.png](https://github.com/Bukasker/LowPolyArcher/blob/main/Assets/Sprites/main%20png.png))]([https://postimg.cc/bSjCvFWB](https://github.com/Bukasker/LowPolyArcher/blob/main/Assets/Sprites/main%20png.png))
  
 Low Poly Archer is my first game made in Unity.
   
